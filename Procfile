@@ -1,0 +1,1 @@
+web: bundle exec ruby piku_app.rb
